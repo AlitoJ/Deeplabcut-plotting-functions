@@ -7,5 +7,8 @@ This python file helps separate the bodyparts and plot the histogram of likeliho
 Histogram-plot.py is the new plotting function. For looking-up convenience, I upload the auxiliaryfunctions.py from AlexEMG/DEEPLABCUT files because of the importing issues. You can search for more details through AlexEMG's pages.https://github.com/AlexEMG/DeepLabCut
 
 These are the original figures plotted by the Deeplabcut Toolbox
-![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/hist.png ![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/plot.png
-![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/trajectory.png ![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/plot-likelihood.png
+
+![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/hist.png 
+![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/plot.png
+![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/trajectory.png 
+![test]https://github.com/AlitoJ/Deeplabcut-plotting-functions/blob/master/img/plot-likelihood.png
