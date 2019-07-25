@@ -1,0 +1,5 @@
+hist,plot,plot-likelihood,trajectory are the original figures plotted by the Deeplabcut toolbox.
+
+tail,snout,leftear,rightear are the bodyparts that tested in my own project
+
+the cumulative figures are normed and cumulative,which means they show the cumulative frequency of likelihood statistics.
